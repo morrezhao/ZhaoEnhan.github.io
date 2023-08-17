@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zhao Enhan, a sophomore student currently at Peking University. Before that, I graduate from High School Afficated to Nanjing Normal University(NSFZ). I study computer science @ College of EECS and economics @ NSD. My research interest lies in AI for Science, especially molecular dynamics. I'm also interested in quantitive finance. I plan to pursue for a Ph.D degree after graduation in 2025.
+Hi, I'm Zhao Enhan, a sophomore student currently at Peking University. Before that, I graduate from High School Affiliated to Nanjing Normal University(NSFZ). I study computer science @ College of EECS and economics @ NSD. My research interests lie in AI for Science, especially molecular dynamics. I'm also interested in quantum science, quantum computing and quantum simulating. I plan to pursue for a Ph.D degree after graduation in 2025.
 
 My hobbies
 ======
