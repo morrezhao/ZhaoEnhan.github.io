@@ -1,7 +1,7 @@
 ---
 title: 'Future Blog Post'
 date: 3202-09-06
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/future-post/
 tags:
   - others
 
