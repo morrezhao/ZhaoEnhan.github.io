@@ -59,6 +59,4 @@ Service and leadership
 * Currently signed in to 43 different slack teams -->
 ![](/files/resume.pdf)
 
-The English version can be download [here](/files/resume.pdf).
-
-And the Chinese version can be download [here](/files/resume_chinese.pdf).
+It can be download [here](/files/resume.pdf).
