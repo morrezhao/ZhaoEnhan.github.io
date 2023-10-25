@@ -12,7 +12,7 @@ Hi, I'm Zhao Enhan, a junior student currently at Peking University. Before that
 
 My hobbies
 ======
-I enjoy playing football, tennis, badminton, etc. I finished fourth in the Freshmen Football Cup of PKU(2021) and I'm a member of the tennis team of EECS. Sometimes I play Honors of King and Genshin Impact with my friends. I like traveling and my dream is to travel and eat all across the world :).
+I enjoy playing football, tennis, badminton, etc. I finished fourth in the Freshmen Football Cup of PKU(2021) and I'm a member of the tennis team of EECS. Sometimes I play Honors of King and Texas Hold’em poker with my friends. I like traveling and my dream is to travel and eat all across the world :).
 
 <!-- Getting started
 ======
