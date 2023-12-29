@@ -6,7 +6,7 @@ excerpt: 'My first paper.'
 date: 2022-09-08
 venue: 'ArXiv'
 paperurl: 'https://doi.org/10.48550/arXiv.2201.02025'
-citation: 'Zhiwei Wang, Yaoyu Zhang, Enhan Zhao, Yiguang Ju, Weinan E, Zhi-Qin John Xu, Tianhan Zhang. (2022). &quot;A deep learning-based model reduction (DeePMR) method for simplifying chemical kinetics.&quot; <i>arXiv</i>. 2201.02025.'
+citation: ‘Zhiwei Wang, Yaoyu Zhang, Pengxiao Lin, Enhan Zhao, Weinan E, Tianhan Zhang*, Zhi-qin John Xu*, Deep mechanism reduction (DeePMR) method for fuel chemical kinetics, Combustion and Flame (2024)’
 ---
 This paper is my first paper.
 
