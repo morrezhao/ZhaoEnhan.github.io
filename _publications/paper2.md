@@ -1,7 +1,7 @@
 ---
 title: "A deep learning-based model reduction (DeePMR) method for simplifying chemical kinetics"
 collection: publications
-permalink: /publication/paper2
+permalink: /publication/paper1
 excerpt: 'My first paper.'
 date: 2023-12-27
 venue: 'Conbustion and Flame'
