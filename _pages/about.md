@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zhao Enhan, a junior student currently at Peking University. Before that, I graduate from High School Affiliated to Nanjing Normal University (NSFZ). I study computer science @ College of EECS and economics @ National School of Development. My MBTI is INTJ, but I become more E when there's other E type people. My research interests lie in AI for Science, especially molecular dynamics. I also have experience in quantum science, quantum computing and quantum simulating. I plan to pursue for a Ph.D degree after graduation in 2025.
+Hi, I'm Zhao Enhan, a junior student currently at Peking University. Before that, I graduate from High School Affiliated to Nanjing Normal University (NSFZ). I study computer science @ College of EECS and economics @ National School of Development. My MBTI is INTJ, but I become more E when there's other E type people. My research interests lie in generative models and AI for Science, especially molecular dynamics. I also have experience in quantum science, quantum computing and quantum simulating. I'm fortunate to be advised by [He Di](https://dihe-pku.github.io) and [Wang Liwei](http://www.liweiwang-pku.com). I plan to pursue for a Ph.D degree after graduation in 2025.
 
 My hobbies
 ======
-I enjoy playing football, tennis, badminton, etc. I finished fourth in the Freshmen Football Cup of PKU(2021) and I'm a member of the tennis team of EECS. Sometimes I play Arena and Texas Hold’em poker with my friends. I like traveling and my dream is to travel and eat all across the world :).
+I enjoy playing football, tennis, badminton, etc. I finished fourth in the Freshmen Football Cup of PKU(2021). Sometimes I play Arena and Texas Hold’em poker with my friends. I like traveling and my dream is to travel and eat all across the world :).
 
 <!-- Getting started
 ======
