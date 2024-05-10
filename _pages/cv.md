@@ -59,4 +59,4 @@ Service and leadership
 * Currently signed in to 43 different slack teams -->
 ![](/files/resume.pdf)
 
-It can be download [here](/files/resume.pdf).
+It can be downloaded [here](/files/resume.pdf).
