@@ -13,10 +13,13 @@ main:
   #   url: /portfolio/
         
   - title: "Chinese Blog"
-    url: /year-archive/
+    url: /chinese-blog/
     
   - title: "CV"
     url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
+
+  - title: "Friend"
+    url: /friend/
