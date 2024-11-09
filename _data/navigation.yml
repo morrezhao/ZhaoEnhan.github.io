@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Chinese Blog"
-    url: /chinese-blog/
+  # - title: "Chinese Blog"
+  #   url: /chinese-blog/
     
   - title: "CV"
     url: /cv/
@@ -21,5 +21,5 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Friend"
-    url: /friend/
+  # - title: "Friend"
+    # url: /friend/

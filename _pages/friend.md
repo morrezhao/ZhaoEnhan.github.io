@@ -43,7 +43,7 @@ sitemap: true
             Computational Economics
         </p>
     </div>
-    <div style="flex-grow: 1;">
+    <!-- <div style="flex-grow: 1;">
          <img src="../images/cxl.jpg" alt="cxl" style="width: 300px;">
         <p> 
             <a href="https://ada-cheng.github.io">
@@ -53,5 +53,5 @@ sitemap: true
             Research interest: ML System, LLM, <br>
             Computer Vision
         </p>
-    </div>
+    </div> -->
 </div>
