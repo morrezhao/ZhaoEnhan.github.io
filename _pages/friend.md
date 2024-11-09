@@ -1,8 +1,8 @@
 ---
-permalink: /friend/
+permalink: /friend_hidden/
 title: "Friend"
 excerpt: "Some links to my friends' homepage"
-sitemap: true
+sitemap: false
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
